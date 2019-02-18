@@ -1,4 +1,4 @@
-# sunrise_calculator
+sunrise_calculator
 ====================
 ## Sunrise Calculator Application
 

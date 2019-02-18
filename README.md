@@ -2,11 +2,10 @@ sunrise_calculator
 ====================
 ## Sunrise Calculator Application
 
-[1]: https://www.lipsum.com/        "Lorem"
 
 ![alt text](http://icons.iconarchive.com/icons/iconsmind/outline/256/Sunrise-icon.png "Sunrise")
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pulvinar consectetur ante, sit amet venenatis lectus placerat at. Aliquam in metus turpis. Nam nec nunc consectetur ipsum varius fermentum. Sed eget libero fermentum lectus interdum mollis. Nulla quis facilisis tellus, ut venenatis augue. Quisque metus nulla, volutpat eu ultrices sed, venenatis nec ligula. Aliquam in augue tellus. Mauris vel nibh tempus, pellentesque velit eget, sodales erat. Vivamus feugiat leo eu dui ultricies, quis tempus odio tempor. Nunc risus leo, semper eu gravida at, porttitor nec metus. Donec laoreet enim eget elementum mollis.
+[1]: https://www.lipsum.com/        "Lorem" ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pulvinar consectetur ante, sit amet venenatis lectus placerat at. Aliquam in metus turpis. Nam nec nunc consectetur ipsum varius fermentum. Sed eget libero fermentum lectus interdum mollis. Nulla quis facilisis tellus, ut venenatis augue. Quisque metus nulla, volutpat eu ultrices sed, venenatis nec ligula. Aliquam in augue tellus. Mauris vel nibh tempus, pellentesque velit eget, sodales erat. Vivamus feugiat leo eu dui ultricies, quis tempus odio tempor. Nunc risus leo, semper eu gravida at, porttitor nec metus. Donec laoreet enim eget elementum mollis.
 
 >Ut rhoncus nulla et hendrerit rutrum. *Pellentesque vulputate ornare quam, at tempus purus lobortis ut*. Aliquam id ex metus. >Integer condimentum mi nisl, ut feugiat orci iaculis vulputate. Phasellus suscipit ultrices libero, vitae efficitur lectus >facilisis sed. Quisque fringilla maximus sem sit amet dictum. Suspendisse ante ligula, molestie eu purus et, cursus laoreet >risus. Curabitur sed iaculis metus. Curabitur hendrerit vestibulum velit, sit amet blandit sem aliquam molestie. Nulla eros >quam, tempus id tincidunt a, semper ac mi. Donec mattis viverra nibh. Fusce non felis sapien. Sed lobortis facilisis erat ut >rhoncus. Nullam et erat eget justo eleifend auctor nec ut augue. Nullam ultricies molestie nisl. Praesent sit amet aliquet >sapien, congue volutpat enim.
 

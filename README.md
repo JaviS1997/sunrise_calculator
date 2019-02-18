@@ -12,7 +12,7 @@ sunrise_calculator
 
 >Ut rhoncus nulla et hendrerit rutrum. *Pellentesque vulputate ornare quam, at tempus purus lobortis ut*. Aliquam id ex metus. >Integer condimentum mi nisl, ut feugiat orci iaculis vulputate. Phasellus suscipit ultrices libero, vitae efficitur lectus >facilisis sed. Quisque fringilla maximus sem sit amet dictum. Suspendisse ante ligula, molestie eu purus et, cursus laoreet >risus. Curabitur sed iaculis metus. Curabitur hendrerit vestibulum velit, sit amet blandit sem aliquam molestie. Nulla eros >quam, tempus id tincidunt a, semper ac mi. Donec mattis viverra nibh. Fusce non felis sapien. Sed lobortis facilisis erat ut >rhoncus. Nullam et erat eget justo eleifend auctor nec ut augue. Nullam ultricies molestie nisl. Praesent sit amet aliquet >sapien, congue volutpat enim.
 
-*    Curabitur in auctor lacus. 
+* Curabitur in auctor lacus. 
      Ut neque lectus, bibendum sit amet lorem eget, suscipit venenatis augue. 
 *    Praesent velit turpis, tincidunt vel est eget, dictum suscipit sapien. 
 + Aliquam commodo fringilla neque, ut tincidunt felis gravida vel. 

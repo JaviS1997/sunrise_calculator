@@ -1,6 +1,8 @@
 sunrise_calculator
 ==
 # Sunrise Calculator Application
+## Simple
+### & Easy
 
 
 

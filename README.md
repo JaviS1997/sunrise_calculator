@@ -4,7 +4,7 @@ sunrise_calculator
 
 [1]: https://www.lipsum.com/        "Lorem"
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gaius_Iulius_Caesar_%28Vatican_Museum%29.jpg/220px-Gaius_Iulius_Caesar_%28Vatican_Museum%29.jpg "Julius Caesar")
+![alt text](http://icons.iconarchive.com/icons/iconsmind/outline/256/Sunrise-icon.png "Sunrise")
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pulvinar consectetur ante, sit amet venenatis lectus placerat at. Aliquam in metus turpis. Nam nec nunc consectetur ipsum varius fermentum. Sed eget libero fermentum lectus interdum mollis. Nulla quis facilisis tellus, ut venenatis augue. Quisque metus nulla, volutpat eu ultrices sed, venenatis nec ligula. Aliquam in augue tellus. Mauris vel nibh tempus, pellentesque velit eget, sodales erat. Vivamus feugiat leo eu dui ultricies, quis tempus odio tempor. Nunc risus leo, semper eu gravida at, porttitor nec metus. Donec laoreet enim eget elementum mollis.
 

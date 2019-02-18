@@ -10,9 +10,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pulvinar consec
 
 >Ut rhoncus nulla et hendrerit rutrum. *Pellentesque vulputate ornare quam, at tempus purus lobortis ut*. Aliquam id ex metus. >Integer condimentum mi nisl, ut feugiat orci iaculis vulputate. Phasellus suscipit ultrices libero, vitae efficitur lectus >facilisis sed. Quisque fringilla maximus sem sit amet dictum. Suspendisse ante ligula, molestie eu purus et, cursus laoreet >risus. Curabitur sed iaculis metus. Curabitur hendrerit vestibulum velit, sit amet blandit sem aliquam molestie. Nulla eros >quam, tempus id tincidunt a, semper ac mi. Donec mattis viverra nibh. Fusce non felis sapien. Sed lobortis facilisis erat ut >rhoncus. Nullam et erat eget justo eleifend auctor nec ut augue. Nullam ultricies molestie nisl. Praesent sit amet aliquet >sapien, congue volutpat enim.
 
-1. Curabitur in auctor lacus. 
-2. Ut neque lectus, bibendum sit amet lorem eget, suscipit venenatis augue. 
-3. Praesent velit turpis, tincidunt vel est eget, dictum suscipit sapien. 
+*    Curabitur in auctor lacus. 
+     Ut neque lectus, bibendum sit amet lorem eget, suscipit venenatis augue. 
+*    Praesent velit turpis, tincidunt vel est eget, dictum suscipit sapien. 
 + Aliquam commodo fringilla neque, ut tincidunt felis gravida vel. 
 + In consequat sodales gravida. Aliquam eleifend ut quam ac viverra. In suscipit lectus non ultricies convallis. Ut pharetra sapien vel elit rutrum fringilla. Sed vestibulum, mi quis pulvinar laoreet, est odio maximus justo, a laoreet ante lorem nec dui. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis malesuada eget lectus ac rutrum. Aliquam ullamcorper volutpat nunc, at tristique dolor dapibus quis. Aliquam laoreet quam sit amet lorem eleifend volutpat. Suspendisse neque odio, tempus eu lobortis eget, pulvinar eget urna. Nullam lectus ligula, viverra quis odio a, gravida cursus dui.
 

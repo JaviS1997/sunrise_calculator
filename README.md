@@ -1,6 +1,7 @@
 sunrise_calculator
 ==
-## Sunrise Calculator Application
+# Sunrise Calculator Application
+
 
 
 ![alt text](http://icons.iconarchive.com/icons/iconsmind/outline/256/Sunrise-icon.png "Sunrise")

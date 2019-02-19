@@ -12,6 +12,7 @@ public class Main_Swing extends JFrame {
     JLabel coord;
     JTextField latTxtfield;
     JTextField longTxtfield;
+    JButton calculate;
 
 
     public static void main(String[] args) {
@@ -31,6 +32,7 @@ public class Main_Swing extends JFrame {
 
         latTxtfield = new JTextField(5);
         longTxtfield = new JTextField(5);
+        calculate = new JButton("Calculate");
 
         JPanel panel = new JPanel();
         JPanel panel2 = new JPanel();
@@ -43,8 +45,10 @@ public class Main_Swing extends JFrame {
         panel2.add(longLabel);
         panel2.add(longTxtfield);
         panel3.add(coord);
+        panel3.add(calculate);
         add(panel,BorderLayout.NORTH);
         add(panel2,BorderLayout.CENTER);
+        add(panel3,BorderLayout.SOUTH);
         add(panel3,BorderLayout.SOUTH);
 
 

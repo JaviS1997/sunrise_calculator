@@ -13,8 +13,6 @@ import javax.swing.*;
 public class Main_Swing extends JFrame {
 
     private JPanel panel1;
-    private JTextField tfLatitude;
-    private JTextField tfLongitude;
     private JButton bCalculate;
     private JLabel tfOutput;
     private JDateChooser date;

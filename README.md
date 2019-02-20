@@ -8,5 +8,5 @@ sunrise_calculator
 
 **/!\ :**
 > Don't press Calculate button without a date.
-> Don't press Calculate button with Latitude or Longitude equal to null (0' 0min 0sec).
+Don't press Calculate button with Latitude or Longitude equal to null (0' 0min 0sec).
 

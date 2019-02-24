@@ -4,6 +4,8 @@ sunrise_calculator
 
 ![alt text](http://icons.iconarchive.com/icons/iconsmind/outline/256/Sunrise-icon.png "Sunrise")
 
+*Team : Nacho Arenos, Javier Stauffenberg*
+
 **1.** Add the GSon and [JCalendar](https://toedter.com/jcalendar/) libraries.
 
 **/!\ :**
